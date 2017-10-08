@@ -1,4 +1,4 @@
-Soully built to track my progress on pwnable.kr.
+Built to track my progress on pwnable.kr.
 Tooling Used
 - gdb on local box
 - binary ninja
