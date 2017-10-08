@@ -1,0 +1,8 @@
+strings flag
+gdb -q flag
+scroll through flag strings
+find upx string and get an idea
+apt-get install upx
+upx -d flag unpacks the upx file format
+strings flag | grep ':)'
+lol cheap tricks
